@@ -1,0 +1,17 @@
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\obj\Debug\CS_PC_Info.formMain.resources
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\obj\Debug\CS-PC Info.csproj.GenerateResource.cache
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\obj\Debug\CS-PC Info.csproj.CoreCompileInputs.cache
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\bin\Debug\CSPCInfo.exe
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\bin\Debug\CSPCInfo.pdb
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\obj\Debug\CSPCInfo.Properties.Resources.resources
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\obj\Debug\CSPCInfo.exe
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\obj\Debug\CSPCInfo.pdb
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CSPCInfo.Properties.Resources.resources
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CS-PC Info.csproj.GenerateResource.cache
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CS-PC Info.csproj.CoreCompileInputs.cache
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CSPCInfo.exe
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CSPCInfo.pdb
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\bin\Debug\CSPCInfo.exe
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\bin\Debug\CSPCInfo.pdb
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CSPCInfo.formAbout.resources
+C:\Data\Cardoner Sistemas\Development\CS-PC Info\Project\obj\Debug\CSPCInfo.formMain.resources
