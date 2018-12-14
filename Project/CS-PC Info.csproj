@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="C:\Users\Tomas\Dropbox\Cardoner Sistemas\Framework\CSharp\My.cs">
+    <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-csharp\My.cs">
       <Link>My.cs</Link>
     </Compile>
-    <Compile Include="C:\Users\Tomas\Dropbox\Cardoner Sistemas\Framework\CSharp\Network.cs">
+    <Compile Include="C:\Data\Cardoner Sistemas\Development\framework-csharp\Network.cs">
       <Link>Network.cs</Link>
     </Compile>
     <Compile Include="formAbout.cs">
