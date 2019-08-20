@@ -32,7 +32,7 @@ namespace CSPCInfo
 
         private void GetNetworkInfo()
         {
-            textboxCampouterName.Text = Environment.MachineName;
+            textboxComputerName.Text = Environment.MachineName;
 
             foreach (NetworkInterface ni in NetworkInterface.GetAllNetworkInterfaces())
             {

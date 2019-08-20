@@ -28,10 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Icon = Properties.Resources.APPLICATION_32;
-
             this.labelComputerName = new System.Windows.Forms.Label();
-            this.textboxCampouterName = new System.Windows.Forms.TextBox();
+            this.textboxComputerName = new System.Windows.Forms.TextBox();
             this.listviewNetworkInterfaces = new System.Windows.Forms.ListView();
             this.columnName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnDescription = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -51,13 +49,13 @@
             this.labelComputerName.TabIndex = 0;
             this.labelComputerName.Text = "Computer name:";
             // 
-            // textboxCampouterName
+            // textboxComputerName
             // 
-            this.textboxCampouterName.Location = new System.Drawing.Point(121, 12);
-            this.textboxCampouterName.Name = "textboxCampouterName";
-            this.textboxCampouterName.ReadOnly = true;
-            this.textboxCampouterName.Size = new System.Drawing.Size(176, 20);
-            this.textboxCampouterName.TabIndex = 1;
+            this.textboxComputerName.Location = new System.Drawing.Point(121, 12);
+            this.textboxComputerName.Name = "textboxComputerName";
+            this.textboxComputerName.ReadOnly = true;
+            this.textboxComputerName.Size = new System.Drawing.Size(176, 20);
+            this.textboxComputerName.TabIndex = 1;
             // 
             // listviewNetworkInterfaces
             // 
@@ -73,6 +71,7 @@
             this.listviewNetworkInterfaces.FullRowSelect = true;
             this.listviewNetworkInterfaces.GridLines = true;
             this.listviewNetworkInterfaces.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable;
+            this.listviewNetworkInterfaces.HideSelection = false;
             this.listviewNetworkInterfaces.Location = new System.Drawing.Point(12, 74);
             this.listviewNetworkInterfaces.MultiSelect = false;
             this.listviewNetworkInterfaces.Name = "listviewNetworkInterfaces";
@@ -135,8 +134,9 @@
             this.Controls.Add(this.buttonAbout);
             this.Controls.Add(this.labelNetworkAdapters);
             this.Controls.Add(this.listviewNetworkInterfaces);
-            this.Controls.Add(this.textboxCampouterName);
+            this.Controls.Add(this.textboxComputerName);
             this.Controls.Add(this.labelComputerName);
+            this.Icon = global::CSPCInfo.Properties.Resources.APPLICATION_32;
             this.Name = "formMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Title";
@@ -150,7 +150,7 @@
         #endregion
 
         private System.Windows.Forms.Label labelComputerName;
-        private System.Windows.Forms.TextBox textboxCampouterName;
+        private System.Windows.Forms.TextBox textboxComputerName;
         private System.Windows.Forms.ListView listviewNetworkInterfaces;
         private System.Windows.Forms.ColumnHeader columnName;
         private System.Windows.Forms.ColumnHeader columnDescription;
